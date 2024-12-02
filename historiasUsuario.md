@@ -7,8 +7,8 @@
 
 ## Historia de Usuario 2: Diseño adaptable
 - **Como** usuario visitante  
-- **Quiero** que la página se adapte a diferentes tamaños de pantalla (móviles, tabletas, y computadoras)  
-- **Para** poder navegar cómodamente desde cualquier dispositivo.  
+- **Quiero** leer testimonios de clientes anteriores 
+- **Para** conocer la satisfacción de otros con el trabajo del diseñador..  
 
 ## Historia de Usuario 3: Navegación entre secciones
 - **Como** usuario visitante  
