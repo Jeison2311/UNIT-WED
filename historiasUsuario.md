@@ -5,7 +5,7 @@
 - **Quiero** visualizar una lista de los proyectos destacados del diseñador  
 - **Para** conocer su experiencia y habilidades en diseño y desarrollo.  
 
-## Historia de Usuario 2: Diseño adaptable
+## Historia de Usuario 2: Testimonios de Clientes
 - **Como** usuario visitante  
 - **Quiero** leer testimonios de clientes anteriores 
 - **Para** conocer la satisfacción de otros con el trabajo del diseñador..  
